@@ -1,0 +1,119 @@
+//These are some SQL statements that I implemented for one of our homework assignments.
+
+create table student(cwid int unsigned not null primary key, 
+					 firstname varchar(20) not null, 
+					 lastname varchar(20) not null, 
+					 dob date);
+
+show columns from student;                                               
++-----------+------------------+------+-----+---------+-------+
+| Field     | Type             | Null | Key | Default | Extra |
++-----------+------------------+------+-----+---------+-------+
+| cwid      | int(10) unsigned | NO   | PRI |         |       |
+| firstname | varchar(20)      | NO   |     |         |       |
+| lastname  | varchar(20)      | NO   |     |         |       |
+| dob       | date             | YES  |     | NULL    |       |
++-----------+------------------+------+-----+---------+-------+
+4 rows in set (0.00 sec)
+
+create table course (courseid int not null auto_increment primary key, 
+					 cwid int not null,
+					 attendance float not null, 
+					 term float not null, 
+					 midterm float not null, 
+					 final float not null,
+					 foreign key(cwid) references student(cwid));
+
+show columns in course;
++------------+---------+------+-----+---------+----------------+
+| Field      | Type    | Null | Key | Default | Extra          |
++------------+---------+------+-----+---------+----------------+
+| courseid   | int(11) | NO   | PRI | NULL    | auto_increment |
+| cwid       | int(11) | NO   | MUL |         |                |
+| attendance | float   | NO   |     |         |                |
+| term       | float   | NO   |     |         |                |
+| midterm    | float   | NO   |     |         |                |
+| final      | float   | NO   |     |         |                |
++------------+---------+------+-----+---------+----------------+
+6 rows in set (0.00 sec)
+
+create table homework (hwid int not null auto_increment primary key, 
+                       cw_id int not null, 
+					   score float not null, 
+					   hwdate date not null,
+					   foreign key (cw_id) references course(cwid));
+
+show columns from homework;
++--------+---------+------+-----+---------+----------------+
+| Field  | Type    | Null | Key | Default | Extra          |
++--------+---------+------+-----+---------+----------------+
+| hwid   | int(11) | NO   | PRI | NULL    | auto_increment |
+| cw_id  | int(11) | NO   | MUL |         |                |
+| score  | float   | NO   |     |         |                |
+| hwdate | date    | NO   |     |         |                |
++--------+---------+------+-----+---------+----------------+
+4 rows in set (0.00 sec)
+
+insert into student values (111111111, 'Sarah', 'Lee', '1991-09-12'), 
+                           (222222222, 'Sara', 'Li', NULL), 
+			   (333333333, 'Yong-Hwa', 'Jung', '1989-01-01'), 
+		           (123456789, 'Ash', 'Ketchum', NULL), 
+			   (987654321, 'Gintoki', 'Sakata', '1990-10-10');
+
+select * from student;
++-----------+-----------+----------+------------+
+| cwid      | firstname | lastname | dob        |
++-----------+-----------+----------+------------+
+| 111111111 | Sarah     | Lee      | 1991-09-12 |
+| 222222222 | Sara      | Li       | NULL       |
+| 333333333 | Yong-Hwa  | Jung     | 1989-01-01 |
+| 123456789 | Ash       | Ketchum  | NULL       |
+| 987654321 | Gintoki   | Sakata   | 1990-10-10 |
++-----------+-----------+----------+------------+
+5 rows in set (0.00 sec)
+
+insert into course(cwid, attendance, term, midterm, final) values (111111111, 100.0, 95.0, 90.0, 85.5), 
+                                                                  (222222222, 95.0, 85.0, 80.5, 75.0), 
+								  (333333333, 95.0, 90.0, 85.0, 90.0), 
+								  (123456789, 75.0, 80.5, 80.0, 70.0), 
+								  (987654321, 100.0, 50.0, 40.0, 40.0);
+
+select * from course;
++----------+-----------+------------+------+---------+-------+
+| courseid | cwid      | attendance | term | midterm | final |
++----------+-----------+------------+------+---------+-------+
+|        1 | 111111111 |        100 |   95 |      90 |  85.5 |
+|        2 | 222222222 |         95 |   85 |    80.5 |    75 |
+|        3 | 333333333 |         95 |   90 |      85 |    90 |
+|        4 | 123456789 |         75 | 80.5 |      80 |    70 |
+|        5 | 987654321 |        100 |   50 |      40 |    40 |
++----------+-----------+------------+------+---------+-------+
+5 rows in set (0.00 sec)
+
+insert into homework(cw_id, score, hwdate) values (1, 95.0, '2015-01-26'), 
+                                                  (2, 90.0, '2015-01-26'), 
+						  (3, 95.0, '2015-01-26'), 
+						  (4, 50.0, '2015-01-26'), 
+						  (5, 50.0, '2015-01-26'), 
+				                  (1, 100.0, '2015-02-26'), 
+						  (2, 90.5, '2015-02-26'), 
+						  (3, 90.0, '2015-02-26'), 
+						  (4, 0.0, '2015-02-26'), 
+						  (5, 80.0, '2015-02-26');
+												  
+select * from homework;
++------+-------+-------+------------+
+| hwid | cw_id | score | hwdate     |
++------+-------+-------+------------+
+|    1 |     1 |    95 | 2015-01-26 |
+|    2 |     2 |    90 | 2015-01-26 |
+|    3 |     3 |    95 | 2015-01-26 |
+|    4 |     4 |    50 | 2015-01-26 |
+|    5 |     5 |    50 | 2015-01-26 |
+|    6 |     1 |   100 | 2015-02-26 |
+|    7 |     2 |  90.5 | 2015-02-26 |
+|    8 |     3 |    90 | 2015-02-26 |
+|    9 |     4 |     0 | 2015-02-26 |
+|   10 |     5 |    80 | 2015-02-26 |
++------+-------+-------+------------+
+10 rows in set (0.00 sec)
