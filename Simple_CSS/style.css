@@ -1,0 +1,51 @@
+body {
+	background: deepskyblue;
+	width: 800px;
+	margin: 200px auto;
+	font-size: 100%;
+}
+
+h1 {
+	color: darkblue;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+}
+
+p.first{
+	border: 5px dashed purple;
+	color: midnightblue;
+	padding: 10px;
+}
+
+.second{
+	border: 5px solid aqua;
+	color: lightcyan;
+	padding: 20px;
+}
+
+a {
+	color: blue;
+	text-decoration: none;
+}
+
+a:visited {
+	color: red;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: green;
+}
+
+ol {
+	border: 5px solid darksalmon;
+	border-radius: 10px;
+}
+
+.content li {
+	color: brown;
+}
+
+.content li:first-child {
+	background: yellow;
+}
