@@ -1,0 +1,55 @@
+/*
+---selector #1---
+h1 {
+color: red;
+}
+
+---selector #2---
+h2.important{
+color: red;
+}
+
+---selector #3---
+.relevant{
+color: red;
+}
+
+---selector #4---
+.relevant .a:first-child{
+color: red;
+}
+
+---selector #5---
+.relevant p:nth-child(3){
+color:red;
+}
+
+---selector #6---
+.relevant p:nth-child(7){
+color:red;
+}
+
+---selector #7---
+p{
+color:red;
+}
+
+---selector #8---
+body > p{
+color:red;
+}
+
+---selector #9---
+.a {
+color:red;
+}
+
+---selector #10---
+.relevant .a {
+color:red;
+}
+
+---selector #11---*/
+.relevant .a:nth-child(2), p:nth-child(4) {
+color:red;
+}
