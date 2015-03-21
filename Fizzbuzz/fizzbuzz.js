@@ -50,7 +50,7 @@ var main = function(){
 			} else if ((arr[i]%3 ===0) && (arr[i]%5 === 0)) {
 				$("body .three").append("FizzBuzz ");
 			} else {
-				$("body .three").append(i + " ");
+				$("body .three").append(arr[i] + " ");
 			}
 		}
 		$("body .three").append("</p><br>");
