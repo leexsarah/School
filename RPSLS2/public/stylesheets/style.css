@@ -1,0 +1,33 @@
+body{
+	font-size: 100%;
+	font-family: arial, verdana, sans-serif;
+	background-color: #f4f4e0;
+}
+
+button{
+	font-size: 130%;
+	background-color: #ade6f2;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: none;
+	border-radius: 50px;
+}
+
+h1{
+	text-align: center;
+}
+
+.choices{
+	text-align: center;
+}
+
+.results{
+	background-color: #ceceb9;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+button:hover{
+	cursor: pointer;
+}
