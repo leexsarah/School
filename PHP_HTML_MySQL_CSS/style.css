@@ -1,0 +1,42 @@
+body {
+	background: #A9E2F3;
+	text-align: center;
+	margin-top: 20px;
+}
+
+h2 {
+	color: #0000CC;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+a {
+	color: #3333FF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+}
+
+.request1, .request2 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	color: #000059;
+	background-color: #66FF99;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+.one, .two {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	color: #000059;
+}
+
+li {
+	list-style-type: none;
+}
