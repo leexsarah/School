@@ -1,0 +1,32 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #D1EBFF;
+}
+
+table {
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 15px;
+}
+
+form {
+	font-size: 150%;
+	border: 1px solid black;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+a {
+	text-decoration: none;
+	color: #0066B2;
+	font-weight: bold;
+}
+
+a:hover {
+	font-style: italic;
+}
+
+a:visited {
+	color: #0066B2;
+}

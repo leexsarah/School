@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>eadvisor</title>
+		{% load staticfiles %}
+		<link href="{% static "form.css" %}" rel="stylesheet" media="all">
+	</head>
+	<body><center>
+		<table>
+			<tr>
+				<td><img src="{% static "e-advisor1.2.png" %}" alt="eadvisor logo"></td>
+				<td>
+					<form action="{% url "form" %}" method="post" enctype="multipart/form-data">
+					{% csrf_token %}
+					<p>{{ form.docfile.label_tag }}</p>
+					<p>{{ form.docfile }}</p>
+					<p><button type="submit">Upload</button></p>
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td></td><td><a href="https://shibboleth.fullerton.edu/idp/Authn/UserPassword" target="_blank">Click here to download your TDA from your portal</a></td>
+			</tr>
+		<table>
+	</center></body>
+</html> 

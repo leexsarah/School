@@ -1,0 +1,127 @@
+<!doctype html>
+<html>
+	<head>
+		<title>eadvisor</title>
+		{% load staticfiles %}
+		<link href="{% static 'home.css' %}" rel="stylesheet" media="all">
+	</head>
+	<body>
+		<div class="topbar">
+			<img src="{% static "e-advisor1.2-small.png" %}" alt="eadvisor logo small">
+			<a class="return" href="{% url 'form' %}">Reupload TDA</a>
+		</div>
+		<br><br><br>
+		<div class="ge">
+		<table>
+		<tr>
+		<td class="tabs">
+			<ul>
+				<li><a href="{% url 'tree' %}">Tree</a></li>
+				<li><a href="{% url 'ge' %}">GE</a></li>
+				<li><a href="{% url 'unit' %}">Unit Req</a></li>
+				<li><a href="{% url 'courses' %}">Courses</a></li>
+				<li><a href="{% url 'save' %}">Save</a></li>
+				<li><a href="{% url 'prnt' %}">Print</a></li>
+				<li><a href="{% url 'email' %}">E-mail</a></li>
+				<li><a href="{% url 'help' %}">Help</a></li>
+			</ul>
+		</td>
+		<td class="reqlist"><b>
+			<table>
+				<tr>
+					<td>A.  CORE COMPETENCIES</td>
+					<td>{% if gelist.0 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- A.1 ORAL COMMUNICATION</td>
+					<td>{% if gelist.1 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font><td>
+				</tr>
+				<tr>
+					<td>>- A.2 WRITTEN COMMUNICATION</td>
+					<td>{% if gelist.2 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- A.3 CRITICAL THINKING</td>
+					<td>{% if gelist.3 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>B. SCIENTIFIC INQUIRY</td>
+					<td>{% if gelist.4 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- B.1 PHYSICAL SCIENCE</td>
+					<td>{% if gelist.5 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- B.2 LIFE SCIENCE</td>
+					<td>{% if gelist.6 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- B.3 LABORATORY EXPERIENCE</td>
+					<td>{% if gelist.7 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- B.4 MATHEMATICS</td>
+					<td>{% if gelist.8 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- B.5 IMPLICATIONS AND EXPLORATIONS</td>
+					<td>{% if gelist.9 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>C. ARTS AND HUMANITIES</td>
+					<td>{% if gelist.10 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- C.1 INTRODUCTION TO ARTS</td>
+					<td>{% if gelist.11 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- C.2 INTRODUCTION TO HUMANITIES</td>
+					<td>{% if gelist.12 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- C.3 EXPLORATIONS IN THE ARTS</td>
+					<td>{% if gelist.13 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- C.4 ORIGINS OF WORLD</td>
+					<td>{% if gelist.14 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>D. SOCIAL SCIENCES</td>
+					<td>{% if gelist.15 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- D.1 INTRODUCTION TO THE SOCIAL SCIENCES </td>
+					<td>{% if gelist.16 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- D.2 WORLD CIVILIZATIONS AND CULTURES</td>
+					<td>{% if gelist.17 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- D.3 AMERICAN HISTORY</td>
+					<td>{% if gelist.18 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- D.4 AMERICAN GOVERNMENT</td>
+					<td>{% if gelist.19 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>>- D.5 EXPLORATIONS IN SOCIAL SCIENCES</td>
+					<td>{% if gelist.20 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>E. LIFELONG LEARNING</td>
+					<td>{% if gelist.21 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>Z. CULTURAL DIVERSITY</td>
+					<td>{% if gelist.22 == 'Y' %}<font color="blue">Complete!{% else %}<font color="red">Incomplete...{% endif %}</font></td>
+				</tr>
+			</table>
+		</b></td>
+		</tr></table></div>
+	</body>
+</html>

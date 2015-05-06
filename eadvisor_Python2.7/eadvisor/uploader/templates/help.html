@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+	<head>
+		<title>eadvisor</title>
+		{% load staticfiles %}
+		<link href="{% static "home.css" %}" rel="stylesheet" media="all">
+	</head>
+	<body>
+		<div class="topbar">
+			<img src="{% static "e-advisor1.2-small.png" %}" alt="eadvisor logo small">
+			<a class="return" href="{% url "form" %}">Reupload TDA</a>
+		</div>
+		<br><br><br>
+		<div class="help">
+		<table>
+		<tr>
+		<td class="tabs">
+			<ul>
+				<li><a href="{% url "tree" %}">Tree</a></li>
+				<li><a href="{% url "ge" %}">GE</a></li>
+				<li><a href="{% url "unit" %}">Unit Req</a></li>
+				<li><a href="{% url "courses" %}">Courses</a></li>
+				<li><a href="{% url "save" %}">Save</a></li>
+				<li><a href="{% url "prnt" %}">Print</a></li>
+				<li><a href="{% url "email" %}">E-mail</a></li>
+				<li><a href="{% url "help" %}">Help</a></li>
+			</ul>
+		</td>
+		<td class="info"><b>
+			<ul>
+				<li>Tree - Displays a tree diagram that shows which classes you have taken and which classes you still need to take.</li>
+				<li>GE - Displays the GE classes you have taken and which ones you still need to take.</li>
+				<li>Unit Req - Display your unit requirements.</li>
+				<li>Courses - Displays the list of classes you should take for the upcoming semesters.</li>
+				<li>Save - Allows you to save your information in a PDF file.
+				<li>Print - Allows you to print your information.</li>
+				<li>E-mail - Allows you to e-mail the information to yourself.</li>
+				<li>Reupload TDA - Click the button on the upper right-hand corner to reupload your TDA.
+				<li>Help - See how to use this webpage.</li>
+			</ul>
+		</b></td>
+		</tr></table></div>
+	</body>
+</html>

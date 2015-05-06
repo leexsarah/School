@@ -1,0 +1,580 @@
+PREPARED: 01/29/15 - 13:04                          891637274
+Shiohama,Chris Hiroshi                  ANTICP GRAD DATE:05/22/15
+PROGRAM CODE: BS  CPSC                       CATALOG YEAR: FA2009
+ 
+                      BACHELOR OF SCIENCE
+                        COMPUTER SCIENCE
+-----------------------------------------------------------------
+********AT LEAST ONE REQUIREMENT HAS NOT BEEN SATISFIED**********
+-----------------------------------------------------------------
+ 
+       >>>IMPORTANT INFORMATION<<<
+       Regarding Final Evaluation and/or Grad Checkout Status
+ 
+  +     **FINAL EVALUATION STATUS: COMPLETE
+           (For Transfer Students Only)
+           A review of the units that you earned from other
+           colleges, universities, or the Advanced Placement
+           Tests has been completed.
+ 
+        **DEGREE CHECKOUT STATUS: APPROVED
+          Your major department has approved your grad check,
+          (ie,reviewed the major courses on your TDA), but you
+          have not paid your $115 graduation fee. Pay this fee
+          immediately at Student Financial Services (UH-180)
+          to avoid potential delays to your gradaution.
+          (This is a one-time fee)
+-----------------------------------------------------------------
+*****************************************************************
+           NEW/REALIGNED GENERAL EDUCATION INFORMATION
+To see how General Education Categories I-V are now
+represented by Areas A-E, please go to:
+http://distance-ed.fullerton.edu/bbpresentations/
+Academic_Advisement/New_GE_TDA_intro/player.html
+All GE requirements remain exactly the same and no classes
+have been removed.
+*****************************************************************
+This TITAN Degree Audit (TDA) is provided to help you keep track
+of your progress toward a degree. Although efforts have been made
+to ensure its accuracy, you must carefully review it and report
+any errors to the Evaluations Unit (657-278-2396) or TDA Staff
+(tda@fullerton.edu). You are responsible for consulting a major
+adviser to verify the status of major requirements. If you have
+a Final Evaluation & Summary of Units, please use it together
+with this TDA. Final verification for graduation is based on your
+Graduation Check.
+ 
+>>COMMENCEMENT INFORMATION:
+If you are a graduation candidate, please access the commencement
+website at www.fullerton.edu/commencement for the specific dates
+of your graduation ceremony.
+-----------------------------------------------------------------
+* * * * * * * * * * * * *L E G E N D* * * * * * * * * * * * * * *
+ NO =Reqt Not Complete            RP =Duplicate/Retaken Course
+ OK =Reqt Completed               >R =Repeatable Course
+ -  =Sub-Req Not Complete         >D =Grades Averaged
+ +  =Sub-Req Completed            (R)=Required Course/Requiremen
+ IP =In Progress Course           >S =Credit Reduced
+ >- =Credit Reduction May
+
+     Be Required
+-----------------------------------------------------------------
+                 ****PLACEMENT EXAMINATIONS****
+  +     REQUIREMENT MET/EXEMPT FROM ENGLISH PLACEMENT TEST
+  +     PASS/EXEMPT FROM ENTRY LEVEL MATHEMATICS EXAM
+-----------------------------------------------------------------
+     G E N E R A L     E D U C A T I O N     P R O G R A M
+ 
+UNIT REQUIREMENTS: Limited to either 9 units or 3 courses from
+a single department, excluding courses in G.E. Category A, Core
+Competencies.
+ 
+COURSES IN YOUR MAJOR:
+Courses offered by the department of the student's major may not
+be used to fulfill the unit requirements of Area B, C, D, E or Z,
+with the exception of areas offering choices from only one
+department. For more information visit the Academic Advisement
+Center (UH-123B).
+ 
+>>TRANSFER STUDENTS: Transfer coursework is not held to the "9-
+unit/3-course limit from a single department" but no additional
+CSUF coursework from that department can be applied to G.E. The
+TDA system has a limitation in that it may incorrectly continue
+to apply courses exceeding the 9-unit/3-course limit from a
+single department. Please be sure to check with your evaluator
+for any additional CSUF courses that may have exceeded the limit.
+ 
+-----------------------------------------------------------------
+OK     A.  CORE COMPETENCIES (NEEDS  C  OR BETTER) - 9 UNITS
+       [GE-A]
+ 
+  +     A.1 ORAL COMMUNICATION - CSU CERTIFIED (3 UNITS)
+        [A1 CSU CERT]
+      SP95 A1 CSU CERT     3.0 B    FUN INTPS CM
+                                    Cerritos: SPCH    12
+ 
+  +     A.2 WRITTEN COMMUNICATION (3 UNITS)   [WRITTEN COMM]
+      FA91 ENGL-101        3.0 B    FRESH COMP
+                                    Cerritos: ENGL    1
+ 
+  +     A.3 CRITICAL THINKING (3 UNITS)   [CRIT THINKING]
+      SP93 PHIL-200        3.0 A    INTRO LOGIC
+                                    Cerritos: PHIL    12
+-----------------------------------------------------------------
+OK     B. SCIENTIFIC INQUIRY AND QUANTITATIVE REASONING
+       (12 UNITS MINIMUM)   [GEB-CPSC]
+ 
+  +     B.1 PHYSICAL SCIENCE (3 UNITS MINIMUM)   [PHY SCI]
+      SP92 B1 CSU CERT     3.0 B    PHYS SCIENCE
+                                    Cerritos: PS      20
+      SP11 PHYS-115        4.0 A    ELEMENTARY PHYSICS
+                                    Cerritos: PHYS    100
+      SP12 PHYS-225        3.0 A    ENGINEERING PHYSICS
+                                    Cerritos: PHYS    201
+      SP12 PHYS-225L       1.0 A    ENGINEERING PHYSICS
+                                    Cerritos: PHYS    201
+ 
+  +     B.2 LIFE SCIENCE (3 UNITS MINIMUM)   [BIOLOGY]
+
+      FA91 BIOL-101        3.0 A    INTR BIO SCI
+                                    Cerritos: BIOL    10
+      FA91 BIOL-101L       1.0 A    INTR BIO SCI
+                                    Cerritos: BIOL    10
+ 
+  +     B.3 LABORATORY EXPERIENCE SATISFIED   [LAB]
+ 
+  +     B.4 MATHEMATICS QUANTITATIVE REASONING(3 UNITS MINIMUM)
+        NEEDS 'C' OR BETTER   [MATH]
+      SP93 B4 CSU CERT     4.0 A    FINITE MATH
+                                    Cerritos: MATH    15
+      FA95 B4 CSU CERT     4.0 C    COLL ALGEBRA
+                                    Cerritos: MATH    17
+      SP11 MATH-125        7.0 A    PRECALCULUS MATH           ++
+                                    Cerritos: MATH    150, 140
+      FA11 MATH-150A       4.0 A    ANALYTIC GEOM & CALC I
+                                    Cerritos: MATH    170
+      SP12 MATH-150B       4.0 A    ANALYTIC GEOM & CALC II
+                                    Cerritos: MATH    190
+ 
+        B.5 IMPLICATIONS AND EXPLORATIONS IN MATH AND NAT SCI
+        [ALTER]
+      FA12 PHYS-226        3.0 C    ENGINEERING PHYSICS
+                                    Cerritos: PHYS    202
+      FA12 PHYS-226L       1.0 C    ENGINEERING PHYSICS
+                                    Cerritos: PHYS    202
+      FA13 MATH-338        4.0 B+   STAT APPL TO NATURAL SCI
+-----------------------------------------------------------------
+OK     C. ARTS AND HUMANITIES (12 UNITS MINIMUM)
+       [GE-C]
+ 
+  +     C.1 INTRODUCTION TO ARTS (3 UNITS)   [ARTS]
+      SP93 ART -201A       3.0 D    APPREC&HIST
+                                    Cerritos: ART     1
+ 
+  +     C.2 INTRODUCTION TO HUMANITIES (3 UNITS)   [HUMS]
+      FA92 PHIL-100        3.0 B    INTRO-PHIL
+                                    Cerritos: PHIL    5
+      FA93 C2 CSU CERT     5.0 B    ELM JAPN
+                                    Cerritos: JAPN    1
+ 
+  +     C.3 EXPLORATIONS IN THE ARTS OR HUMANITIES (3 UNITS)
+        [EXPA]
+      FA13 PHIL-350        3.0 C+   ASIAN PHILOSOPHY
+ 
+  +     C.4 ORIGINS OF WORLD CIVILIZATION (3 UNITS)   [CIVIL1]
+             ***WORLD CIV WAIVED--[CSU GE CERTIFICATION]***
+-----------------------------------------------------------------
+OK     D. SOCIAL SCIENCES (12 UNITS MINIMUM)
+       [GE-D]
+ 
+  +     D.1 INTRODUCTION TO THE SOCIAL SCIENCES (3 UNITS)
+            [SOC SCI]
+      SP92 PSYC-101        3.0 A    GEN INT PSYC
+                                    Cerritos: PSYC    1
+      FA92 D9 CSU CERT     3.0 A    DEVEL PSYC
+                                    Cerritos: PSYC    11
+      SP93 ANTH-101        3.0 B    HUM EVOL/VAR
+
+                                    Cerritos: ANTH    1
+      SP94 D9 CSU CERT     3.0 C    SOCIAL PSYC
+                                    Cerritos: PSYC    13
+ 
+        D.2 WORLD CIVILIZATIONS AND CULTURES (3 UNITS) [CIVIL2]
+              *** MET WITH COMPLETION OF C.4 ***
+ 
+  +     D.3 AMERICAN HISTORY, INSTITUTIONS AND VALUES
+            (3 UNITS)   [HIST1]
+      FA95 HIST-170B       3.0 B    POL-SOC HIST
+                                    Cerritos: HIST    7.2
+ 
+  +     D.4  AMERICAN GOVERNMENT (3 UNITS)   [POLSC1]
+      FA93 POSC-100        3.0 C    AM POL-INST
+                                    Cerritos: POL     5
+ 
+  +     D.5 EXPLORATIONS IN SOCIAL SCIENCES (3 UNITS)   [EXPS]
+                      ****WAIVED****
+        TRANSFER STUDENTS WITH 12 UNITS OF SOCIAL SCIENCES
+             COURSES ARE EXEMPT FROM THIS REQUIREMENT.
+        **
+      SP96 ECON-201        3.0 C    PRINCIPLES
+                                    Cerritos: ECON    1.1
+-----------------------------------------------------------------
+OK     E. LIFELONG LEARNING AND SELF DEVELOPMENT
+        [GE-E; LIFE]
+                   >>>> Waived for this major <<<<
+ 
+        **
+      SP96 HESC-101        3.0 A    CONT HLTH PR
+                                    Cerritos: HED     8
+-----------------------------------------------------------------
+OK      Z.  CULTURAL DIVERSITY REQUIREMENT (1 CLASS REQUIRED)
+       [CULTURAL DIV]
+  +     **
+      FA13 PHIL-350        3.0 C+   ASIAN PHILOSOPHY
+-----------------------------------------------------------------
+NO     GENERAL EDUCATION RESIDENCE UNITS
+  -      MINIMUM OF 9 UNITS IN RESIDENCE:
+            7.0 UNITS EARNED
+      FA13 MATH-338        4.0 B+   FA13 PHIL-350        3.0 C+
+-----------------------------------------------------------------
+NO     GENERAL EDUCATION UPPER DIVISION UNITS (300-400 LEVEL)
+  -      MINIMUM OF 9 UNITS IN UPPER DIVISION:
+            7.0 UNITS EARNED
+      FA13 MATH-338        4.0 B+   FA13 PHIL-350        3.0 C+
+-----------------------------------------------------------------
+OK     GENERAL EDUCATION UNITS
+  +      MINIMUM OF 45 UNITS (incl RES/UD):
+           93.0 UNITS EARNED
+-----------------------------------------------------------------
+*************************MAJOR REQUIREMENTS*********************
+A  C- OR BETTER IS REQUIRED IN ALL PREREQUISITE COURSES AND IN
+COURSES APPLIED TO THE MAJOR.  A 2.0 GPA MUST BE MAINTAINED IN
+ALL ATTEMPTED COMPUTER SCIENCE COURSES (INCLUDING ENGLISH 101).
+*****************************************************************
+*                                                               *
+*  BE AWARE THAT DUE TO CHANGES IN DEPARTMENT CURRICULA, THERE  *
+
+*  MAY BE OTHER COURSE REQUIREMENTS.  PLEASE SEE AN ADVISER.    *
+*                                                               *
+*****************************************************************
+-----------------------------------------------------------------
+NO     COMPUTER SCIENCE CORE COURSES
+ 
+  +  1) LOWER DIVISION COURSES (18 UNITS) [CPSCLD]
+        A  C- OR BETTER GRADE IS REQUIRED IN THESE COURSES.
+                *BCIS 39 MEETS CPSC 254*
+      FA96 CPSC-253U       3.0 C    UNIX
+                                    Cerritos: BCIS    39
+      FA09 CPSC-120        3.0 A    PROGRAMMING IN C/C++
+                                    Cerritos: CIS     180
+      FA09 CPSC-223J       3.5 A    JAVA PROGRAMMING
+                                    Cerritos: CIS     182
+      SP10 CPSC-131        3.0 B    DATA STRUCTURES
+                                    Cerritos: CIS     292
+      FA13 CPSC-121        3.0 A    PROGRAMMING CONCEPTS
+      FA14 CPSC-240        3.0 A-   COMP ORG & ASSEMBLY LANG
+ 
+  -  2) UPPER DIVISION COURSES (28 UNITS) [CPSCUD]
+        A  C- OR BETTER GRADE IS REQUIRED IN THESE COURSES.
+        **************************************************
+        * Students must take and pass the Examination    *
+        * in Programming Proficiency(EPP) before taking  *
+        * upper-division Computer Science courses.       *
+        * Students who do not pass the EPP will be       *
+        * required to take Computer Science 301          *
+        * Programming Lab Practicum.                     *
+        **************************************************
+      SP14 CPSC-311        3.0 A    TECH WRITING FOR COMP SCI
+      FA14 CPSC-315        1.0 A    SOCIAL AND ETHICAL ISSUES
+      SP15 CPSC-323        0.0   IP PROG LANGUAGE & TRANS
+      SP15 CPSC-335        0.0   IP ALGORITHM ENGINEERING
+      SP15 CPSC-362        0.0   IP SOFTWARE ENGINEERING
+      SP15 CPSC-440        0.0   IP COMP SYST ARCHITECTURE
+           TAKE==>   CPSC 323,332,335,351,362,440,
+           CPSC 471(FA06 or after),481
+ 
+        SCIENCE AND MATHEMATICS (30 UNITS)
+ 
+  +  3)    MATHEMATICS (18 UNITS) [CPSCMATH]
+      FA11 MATH-150A       4.0 A    ANALYTIC GEOM & CALC I
+                                    Cerritos: MATH    170
+      SP12 MATH-150B       4.0 A    ANALYTIC GEOM & CALC II
+                                    Cerritos: MATH    190
+      FA13 MATH-338        4.0 B+   STAT APPL TO NATURAL SCI
+      SP14 MATH-270A       3.0 B    MATHEMATICAL STRUCTURES I
+      FA14 MATH-270B       3.0 B-   MATHEMATICAL STRUCTURE II
+ 
+  +  4)    PHYSICAL SCIENCE (8 UNITS) [CPSCPHYSSCI]
+      SP12 PHYS-225        3.0 A    ENGINEERING PHYSICS
+                                    Cerritos: PHYS    201
+      SP12 PHYS-225L       1.0 A    ENGINEERING PHYSICS
+                                    Cerritos: PHYS    201
+      FA12 PHYS-226        3.0 C    ENGINEERING PHYSICS
+                                    Cerritos: PHYS    202
+      FA12 PHYS-226L       1.0 C    ENGINEERING PHYSICS
+
+                                    Cerritos: PHYS    202
+ 
+  +  5)    BIOLOGICAL SCIENCE (4 UNITS)[CPSCBIOLSCI|CPSCBIOLAB]
+      FA91 BIOL-101        3.0 A    INTR BIO SCI
+                                    Cerritos: BIOL    10
+      FA91 BIOL-101L       1.0 A    INTR BIO SCI
+                                    Cerritos: BIOL    10
+-----------------------------------------------------------------
+       MULTIMEDIA & DIGITAL GAME TECHNOLOGIES (15 UNITS)
+ 
+  -     REQUIRED ELECTIVES (15 UNITS) [CPSC-MG-ELECT]
+           TAKE==>   CPSC 386,484,486,487,489
+-----------------------------------------------------------------
+   OR  INTERNET & ENTERPRISE COMPUTING TECHNOLOGIES
+       (15 UNITS)
+ 
+  -     REQUIRED ELECTIVES (15 UNITS) [CPSC-IE-ELECT]
+        Take the following courses plus 3 units of
+        adviser approved 300/400 level course in
+        Computer Science.
+           TAKE==>   CPSC 431,473,474,476
+-----------------------------------------------------------------
+   OR  SOFTWARE ENGINEERING (15 UNITS)
+ 
+  -     REQUIRED ELECTIVES (15 UNITS) [CPSC-SE-ELECT]
+        Take the following courses plus 3 units of
+        adviser approved 300/400 level course in
+        Computer Science.
+           TAKE==>   CPSC 462,463,464,466
+-----------------------------------------------------------------
+   OR  CUSTOMIZED TRACK (15 UNITS)
+ 
+  -     REQUIRED ELECTIVES (15 UNITS) [CPSC-CT-ELECT]
+        Any adviser approved combination of 15 units courses
+        selected from any elective track or from the following
+        course list. At least 9 units must be 400-level,
+        and no more than 3 units from 490-499 courses.
+           TAKE==>   CPSC 303,322L,353,376,411,433,459,483,485,
+           CPSC 491T OR 495 OR 499  EGCP 447
+-----------------------------------------------------------------
+   OR  SCIENTIFIC COMPUTING (17 UNITS)
+ 
+  -     REQUIRED ELECTIVES (17 UNITS) [CPSC-SC-ELECT]
+        Take the following courses plus 3 units of adviser
+        approved 300/400 level course in Computer Science.
+        **Effective Spring 2011: The adviser-approved course
+        must be 400-level**
+      FA12 MATH-250A       4.0 B    ANALYTIC GEOM & CALC III
+                                    Cerritos: MATH    220
+           TAKE==>   MATH 250B,340 ,370
+-----------------------------------------------------------------
+OK     UPPER-DIVISION BACCALAUREATE WRITING REQUIREMENT
+ 
+  +     COURSE REQUIREMENT
+      SP14 CPSC-311        3.0 A    TECH WRITING FOR COMP SCI
+-----------------------------------------------------------------
+       GRADE POINT AVERAGE REQUIREMENTS FOR COMPUTER SCIENCE
+       INCLUDING ALL OTHER COURSES APPLIED TOWARD THE MAJOR
+
+ 
+  +     G.P.A. OF ALL COURSES ATTEMPTED IN COMPUTER SCIENCE
+        (INCLUDING ENGL-101 OR ITS EQUIVALENT AND NON-CPSC
+         COURSES USED IN THE MAJOR)
+           68.5 UNITS ATTEMPTED     243.4 POINTS   3.55 GPA
+-----------------------------------------------------------------
+ 
+-----------------------------------------------------------------
+       COURSES NOT SPECIFICALLY APPLIED TO ABOVE REQUIREMENTS
+ 
+        GENERAL ELECTIVES--THE CREDITS FROM THESE COURSES COUNT
+        TOWARDS THE BACCALAUREATE DEGREE.
+      SS93 ACCTT3292       3.0 A    INTRO ACTG
+                                    Cerritos: BUSA    10
+      FA93 TRSFR3295       3.0 A    INT/ACTG-IBM
+                                    Cerritos: BUSA    31
+      FA94 CPSC-103        3.0 A    MICROCOMP
+                                    Cerritos: BCIS    15
+      SP96 E CSU CERT      3.0 A    PERS/SOC ADJ
+                                    Cerritos: PSYC    33
+      FA96 TRSFR3291       0.0 F    INTERNET
+                                    Cerritos: BCIS    82
+      SS09 CPSCT3316       3.5 A    COMPUTER PROGRAMMING LOGIC
+                                    Cerritos: CIS     103
+      FA10 CPSCT3322       3.5 A    ADVANCED JAVA PROGRAMMING
+                                    Cerritos: CIS     282
+      SP11 CPSCT3320       3.0 A    OBJECT-ORIENTD PRGRAMG C++
+                                    Cerritos: CIS     280
+      SP14 CPSC-301        2.0 CR   PROGRAMMING LAB PRACTICUM
+ 
+        REMEDIAL/NONBACCALAUREATE COURSEWORK (NO DEGREE CREDIT)
+      FA91 NONBA3313       4.0 A    EL ALGEBRA
+                                    Cerritos: MATH    30
+      FA92 NONBA3304       4.0 B    INT ALGEBRA
+                                    Cerritos: MATH    23
+-----------------------------------------------------------------
+                U N I T / G P A    A D J U S T M E N T S
+ 
+        >>GRADE FORGIVENESS:
+        GRADE FORGIVENESS HAS BEEN APPLIED TO THE FOLLOWING
+        COURSES.  THE GRADES AND UNITS HAVE BEEN REMOVED FROM
+        THE GRADE POINT AVERAGE AND EARNED UNIT CALCULATIONS.
+            3.0 UNITS ATTEMPTED        .0 POINTS   0.00 GPA
+      FA94 A1 CSU CERT     0.0 F    FUN INTPS CM
+                                    Cerritos: SPCH    12
+      SP95 ART -201A       0.0 F    APPREC&HIST
+                                    Cerritos: ART     1
+      FA95 E CSU CERT      0.0 F    PERS/SOC ADJ
+                                    Cerritos: PSYC    33
+      FA96 TRSFR3290       3.0 F    COMP-PRO-LOG
+                                    Cerritos: BCIS    56
+ 
+        ACADEMIC RENEWAL--THE GRADES AND UNITS OF THE FOLLOWING
+        COURSES HAVE BEEN REMOVED FROM THE GRADE POINT AVERAGE
+        CALCULATION AND CUMULATIVE EARNED UNITS.
+           16.0 UNITS EARNED
+      SP94 ACCT-201A       7.0 F    FUND-ACTG I                ++
+                                    Cerritos: BUSA    11, 33
+
+      FA95 TRSFR3308       3.0 F    ABNORML PSYC
+                                    Cerritos: PSYC    14
+      SP96 C2 CSU CERT     3.0 F    FR COMP/LIT
+                                    Cerritos: ENGL    2
+      FA96 TRSFR3289       3.0 F    DES/DESK PUB
+                                    Cerritos: ART     48.1
+-----------------------------------------------------------------
+            S U M M A R Y     O F    U N I T S
+-----------------------------------------------------------------
+NO     UNIT REQUIREMENTS
+ 
+  -     UNITS EARNED AT CSUF (30 UNITS MINIMUM)
+        (Extended Education units are excluded from this total)
+           25.0 UNITS EARNED
+  +      CSUF GRADE POINT AVERAGE (2.00 MINIMUM REQUIRED)
+           23.0 UNITS ATTEMPTED      76.3 POINTS   3.32 GPA
+ 
+  -     UPPER DIVISION UNITS EARNED (40 UNITS MINIMUM)
+           13.0 UNITS EARNED
+  -      RESIDENCE UPPER DIVISION UNITS (24 UNITS MINIMUM)
+           13.0 UNITS EARNED
+  -      MAJOR Residence UPPER DIVISION UNITS (12 UNITS)
+           10.0 UNITS EARNED                       3.65 GPA
+-----------------------------------------------------------------
+OK     TRANSFER INSTITUTION TOTALS
+           70.0 UNITS EARNED
+          126.0 UNITS ATTEMPTED     419.0 POINTS   3.33 GPA
+-----------------------------------------------------------------
+NO     CUMULATIVE NUMBER OF UNITS APPLIED TOWARD THE DEGREE
+       THIS DEGREE REQUIRES A MINIMUM OF 124 UNITS.
+    EARNED:  95.0 UNITS
+-----------------------------------------------------------------
+OK     CUMULATIVE GRADE POINT AVERAGE OF ALL ATTEMPTED UNITS
+       (2.00 MINIMUM REQUIRED)
+            149.0 UNITS ATTEMPTED     495.3 POINTS     3.32 GPA
+-----------------------------------------------------------------
+ 
+       *******************************************************
+       COURSEWORK FROM  FA1991 to SP2015
+       ***Excludes the following:
+            1. Remedial/Non-baccalaureate level courses
+            2. Repeated courses that have been removed from GPA
+               and earned unit calculations(Grade Forgiveness)
+            3. Academic Renewal courses
+       *******************************************************
+        Transfer Courses
+          124.5 UNITS EARNED                       3.33 GPA
+      FA91 BIOL-101        3.0 A    INTR BIO SCI
+                                    Cerritos: BIOL    10
+      FA91 BIOL-101L       1.0 A    INTR BIO SCI
+                                    Cerritos: BIOL    10
+      FA91 ENGL-101        3.0 B    FRESH COMP
+                                    Cerritos: ENGL    1
+      SP92 B1 CSU CERT     3.0 B    PHYS SCIENCE
+                                    Cerritos: PS      20
+      SP92 PSYC-101        3.0 A    GEN INT PSYC
+                                    Cerritos: PSYC    1
+      FA92 D9 CSU CERT     3.0 A    DEVEL PSYC
+
+                                    Cerritos: PSYC    11
+      FA92 HIST-170A       0.0 W    POL-SOC HIST
+                                    Cerritos: HIST    7.1
+      FA92 PHIL-100        3.0 B    INTRO-PHIL
+                                    Cerritos: PHIL    5
+      SP93 ANTH-101        3.0 B    HUM EVOL/VAR
+                                    Cerritos: ANTH    1
+      SP93 ART -201A       3.0 D    APPREC&HIST
+                                    Cerritos: ART     1
+      SP93 B4 CSU CERT     4.0 A    FINITE MATH
+                                    Cerritos: MATH    15
+      SP93 PHIL-200        3.0 A    INTRO LOGIC
+                                    Cerritos: PHIL    12
+      SS93 ACCTT3292       3.0 A    INTRO ACTG
+                                    Cerritos: BUSA    10
+      FA93 C2 CSU CERT     5.0 B    ELM JAPN
+                                    Cerritos: JAPN    1
+      FA93 MATH-135        0.0 W    CALC-MGR-BIO
+                                    Cerritos: MATH    16
+      FA93 POSC-100        3.0 C    AM POL-INST
+                                    Cerritos: POL     5
+      FA93 TRSFR3295       3.0 A    INT/ACTG-IBM
+                                    Cerritos: BUSA    31
+      SP94 C2 CSU CERT     0.0 W    ELM JAPN
+                                    Cerritos: JAPN    2
+      SP94 D9 CSU CERT     3.0 C    SOCIAL PSYC
+                                    Cerritos: PSYC    13
+      FA94 B4 CSU CERT     0.0 W    TRIGONOMETRY
+                                    Cerritos: MATH    21
+      FA94 CPSC-103        3.0 A    MICROCOMP
+                                    Cerritos: BCIS    15
+      FA94 TRSFR3294       0.0 W    FUND-ACTG I
+                                    Cerritos: BUSA    11
+      SP95 A1 CSU CERT     3.0 B    FUN INTPS CM
+                                    Cerritos: SPCH    12
+      SP95 B4 CSU CERT     0.0 W    TRIGONOMETRY
+                                    Cerritos: MATH    21
+      FA95 B4 CSU CERT     4.0 C    COLL ALGEBRA
+                                    Cerritos: MATH    17
+      FA95 HIST-170B       3.0 B    POL-SOC HIST
+                                    Cerritos: HIST    7.2
+      SP96 E CSU CERT      3.0 A    PERS/SOC ADJ
+                                    Cerritos: PSYC    33
+      SP96 ECON-201        3.0 C    PRINCIPLES
+                                    Cerritos: ECON    1.1
+      SP96 HESC-101        3.0 A    CONT HLTH PR
+                                    Cerritos: HED     8
+      FA96 ART -223A       0.0 W    LETTERING
+                                    Cerritos: ART     42
+      FA96 CPSC-253U       3.0 C    UNIX
+                                    Cerritos: BCIS    39
+      FA96 TRSFR3291       0.0 F    INTERNET
+                                    Cerritos: BCIS    82
+      SS09 CPSCT3316       3.5 A    COMPUTER PROGRAMMING LOGIC
+                                    Cerritos: CIS     103
+      FA09 CPSC-120        3.0 A    PROGRAMMING IN C/C++
+                                    Cerritos: CIS     180
+      FA09 CPSC-223J       3.5 A    JAVA PROGRAMMING
+
+                                    Cerritos: CIS     182
+      SP10 CPSC-131        3.0 B    DATA STRUCTURES
+                                    Cerritos: CIS     292
+      FA10 CPSCT3322       3.5 A    ADVANCED JAVA PROGRAMMING
+                                    Cerritos: CIS     282
+      SP11 CPSCT3320       3.0 A    OBJECT-ORIENTD PRGRAMG C++
+                                    Cerritos: CIS     280
+      SP11 MATH-125        7.0 A    PRECALCULUS MATH           ++
+                                    Cerritos: MATH    150, 140
+      SP11 PHYS-115        4.0 A    ELEMENTARY PHYSICS
+                                    Cerritos: PHYS    100
+      FA11 MATH-150A       4.0 A    ANALYTIC GEOM & CALC I
+                                    Cerritos: MATH    170
+      SP12 MATH-150B       4.0 A    ANALYTIC GEOM & CALC II
+                                    Cerritos: MATH    190
+      SP12 PHYS-225        3.0 A    ENGINEERING PHYSICS
+                                    Cerritos: PHYS    201
+      SP12 PHYS-225L       1.0 A    ENGINEERING PHYSICS
+                                    Cerritos: PHYS    201
+      FA12 MATH-250A       4.0 B    ANALYTIC GEOM & CALC III
+                                    Cerritos: MATH    220
+      FA12 PHYS-226        3.0 C    ENGINEERING PHYSICS
+                                    Cerritos: PHYS    202
+      FA12 PHYS-226L       1.0 C    ENGINEERING PHYSICS
+                                    Cerritos: PHYS    202
+        FA2013
+           10.0 UNITS EARNED                       3.21 GPA
+      FA13 CPSC-121        3.0 A    PROGRAMMING CONCEPTS
+      FA13 MATH-338        4.0 B+   STAT APPL TO NATURAL SCI
+      FA13 PHIL-350        3.0 C+   ASIAN PHILOSOPHY
+        SP2014
+            8.0 UNITS EARNED                       3.50 GPA
+      SP14 CPSC-301        2.0 CR   PROGRAMMING LAB PRACTICUM
+      SP14 CPSC-311        3.0 A    TECH WRITING FOR COMP SCI
+      SP14 MATH-270A       3.0 B    MATHEMATICAL STRUCTURES I
+        FA2014
+            7.0 UNITS EARNED                       3.31 GPA
+      FA14 CPSC-240        3.0 A-   COMP ORG & ASSEMBLY LANG
+      FA14 CPSC-315        1.0 A    SOCIAL AND ETHICAL ISSUES
+      FA14 MATH-270B       3.0 B-   MATHEMATICAL STRUCTURE II
+        SP2015
+      SP15 CPSC-323        0.0   IP PROG LANGUAGE & TRANS
+      SP15 CPSC-335        0.0   IP ALGORITHM ENGINEERING
+      SP15 CPSC-362        0.0   IP SOFTWARE ENGINEERING
+      SP15 CPSC-440        0.0   IP COMP SYST ARCHITECTURE
+-----------------------------------------------------------------
+************************END OF ANALYSIS**************************
+
+

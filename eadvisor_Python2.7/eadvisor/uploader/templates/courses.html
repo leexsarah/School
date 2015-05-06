@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+	<head>
+		<title>eadvisor</title>
+		{% load staticfiles %}
+		<link href="{% static "home.css" %}" rel="stylesheet" media="all">
+	</head>
+	<body>
+		<div class="topbar">
+			<img src="{% static "e-advisor1.2-small.png" %}" alt="eadvisor logo small">
+			<a class="return" href="{% url "form" %}">Reupload TDA</a>
+		</div>
+		<br><br><br>
+		<div class="courses">
+		<table>
+		<tr>
+		<td class="tabs">
+			<ul>
+				<li><a href="{% url "tree" %}">Tree</a></li>
+				<li><a href="{% url "ge" %}">GE</a></li>
+				<li><a href="{% url "unit" %}">Unit Req</a></li>
+				<li><a href="{% url "courses" %}">Courses</a></li>
+				<li><a href="{% url "save" %}">Save</a></li>
+				<li><a href="{% url "prnt" %}">Print</a></li>
+				<li><a href="{% url "email" %}">E-mail</a></li>
+				<li><a href="{% url "help" %}">Help</a></li>
+			</ul>
+		</td>
+		<td class="course">
+			<form action={% url "courses" %} method="post">
+			{% csrf_token %}
+			<select name="track">
+ 				{% for id, name in form.track_form.field.choices %}
+				<option value="{{id}}">{{name}}</option>
+				{% endfor %}
+			</select>
+			<input type="submit" value="Submit"/>
+			</form>
+			{% if selected == "1" %}
+			<img src="{% static "Multimedia.jpg" %}" alt="multimedia">
+			{% elif selected == "2" %}
+			<img src="{% static "Internet.jpg" %}" alt="internet">
+			{% elif selected == "3" %}
+			<img src="{% static "Software.jpg" %}" alt="software">
+			{% elif selected == "4" %}
+			<img src="{% static "Scientific.jpg" %}" alt="scientific">
+			{% elif selected == "5" %}
+			<img src="{% static "Customized.jpg" %}" alt="customized">
+			{% else %}
+			<p><b>Choose an elective track and press the Submit button.</b></p>
+			{% endif %}
+		</td>
+		</tr></table></div>
+	</body>
+</html>

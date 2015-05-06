@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+	<head>
+		<title>eadvisor</title>
+		{% load staticfiles %}
+		<link href="{% static "home.css" %}" rel="stylesheet" media="all">
+	</head>
+	<body>
+		<div class="topbar">
+			<img src="{% static "e-advisor1.2-small.png" %}" alt="eadvisor logo small">
+			<a class="return" href="{% url "form" %}">Reupload TDA</a>
+		</div>
+		<br><br><br>
+		<div class="ge">
+		<table>
+		<tr>
+		<td class="tabs">
+			<ul>
+				<li><a href="{% url "tree" %}">Tree</a></li>
+				<li><a href="{% url "ge" %}">GE</a></li>
+				<li><a href="{% url "unit" %}">Unit Req</a></li>
+				<li><a href="{% url "courses" %}">Courses</a></li>
+				<li><a href="{% url "save" %}">Save</a></li>
+				<li><a href="{% url "prnt" %}">Print</a></li>
+				<li><a href="{% url "email" %}">E-mail</a></li>
+				<li><a href="{% url "help" %}">Help</a></li>
+			</ul>
+		</td>
+		<td class="pic">
+			<img src="{% static "graph.png" %}" height="420" alt="tree">
+		</td>
+		<td class="legend"><b>
+			<p>Blue = Taken</p>
+			<p>Yellow = In progress</p>
+			<p>Red = Need to take</p>
+		</b></td>
+		</tr></table></div>
+	</body>
+</html>

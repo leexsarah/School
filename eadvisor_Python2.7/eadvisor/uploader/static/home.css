@@ -1,0 +1,165 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #D1EBFF;
+}
+
+h2 {
+	color: #0066B2;
+}
+
+.topbar {
+	background: linear-gradient(#FF9900, #FFFFFF, #0099FF);
+	padding: 5px;
+}
+
+.topbar .return {
+	float: right;
+	text-decoration: none;
+	padding: 15px;
+	font-size: 30px;
+	margin-top: 15px;
+	margin-right: 25px;
+	background-color: #0066B2;
+	border-radius: 15px;
+	cursor: pointer;
+	font-size: 100%;
+	font-weight: bold;
+	color: white;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+.topbar .return:hover {
+	 background-color: #3385C1;
+	 color: white;
+}
+
+.topbar .return:active {
+	margin-top: 20px;
+	margin-right: 20px;
+	box-shadow: 0px 0px 0px;
+}
+
+.tabs {
+	vertical-align: top;
+}
+
+.tabs ul {
+	list-style: none;
+	background-color: white;
+	margin: 0;
+	padding: 0;
+	width: 100px;
+}
+
+.tabs li {
+	padding: 15px;
+	text-align: center;
+	background: linear-gradient(#FF9900, #FFFFFF, #0099FF);
+}
+
+.tabs a {
+	text-decoration: none;
+	color: #0066B2;
+	font-weight: bold;
+}
+
+.tabs a:visited {
+	color: #0066B2;
+}
+
+.tabs a:hover {
+	font-style: italic;
+}
+
+.info {
+	float: left;
+	padding: 10px;
+	width: 1000px;
+	height: 420px;
+	background-color: white;
+}
+
+.info ul{
+	width: 1000px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.info li {
+	padding: 10px;
+}
+
+.info a {
+	color: #0066B2;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.info a:visited {
+	color: #0066B2;
+}
+
+.info a:hover {
+	font-style: italic;
+}
+
+.units .info{
+	float: left;
+	list-style: none;
+	width: 1000px;
+	background-color: white;
+	padding: 10px;
+	height: 400px;
+}
+
+.units .info table {
+	border-collapse: collapse; 
+}
+
+.units .info td {
+	border-bottom: 1px solid #0066B2;
+}
+
+pic {
+	padding: 10px;
+	width: 800px;
+	background-color: white;
+}
+
+.legend {
+	float: left;
+	width: 200px;
+	padding: 10px;
+	background-color: white;
+}
+
+.reqlist {
+	float: left;
+	list-style: none;
+	width: 1000px;
+	background-color: white;
+	padding: 10px;
+	font-size: 100%;
+	height: 500px;
+}
+
+.reqlist table {
+	border-collapse: collapse; 
+}
+
+.reqlist td {
+	border-bottom: 1px solid #0066B2;
+}
+
+.course {
+	float: left;
+	padding: 10px;
+	background-color: white;
+	width: 1000px;
+	height: 1500px;
+}
+
+.course img {
+	width: 1000px;
+}

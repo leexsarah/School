@@ -1,0 +1,134 @@
+<!doctype html>
+<html>
+	<head>
+		<title>eadvisor</title>
+		{% load staticfiles %}
+		<link href="{% static 'home.css' %}" rel="stylesheet" media="all">
+	</head>
+	<body>
+		<div class="topbar">
+			<img src="{% static "e-advisor1.2-small.png" %}" alt="eadvisor logo small">
+			<a class="return" href="{% url 'form' %}">Reupload TDA</a>
+		</div>
+		<br><br><br>
+		<div class="units">
+		<table>
+		<tr>
+		<td class="tabs">
+			<ul>
+				<li><a href="{% url 'tree' %}">Tree</a></li>
+				<li><a href="{% url 'ge' %}">GE</a></li>
+				<li><a href="{% url 'unit' %}">Unit Req</a></li>
+				<li><a href="{% url 'courses' %}">Courses</a></li>
+				<li><a href="{% url 'save' %}">Save</a></li>
+				<li><a href="{% url 'prnt' %}">Print</a></li>
+				<li><a href="{% url 'email' %}">E-mail</a></li>
+				<li><a href="{% url 'help' %}">Help</a></li>
+			</ul>
+		</td>
+		<td class="info"><b>
+			<table>
+				<tr>
+					<td>GENERAL EDUCATION RESIDENCE UNITS</td>
+					<td>{% if gelist.23.0 == 'Y' %}<font color="blue">{{ gelist.23.1 }}</font> / 9.0</td>
+					<td><font color="blue">Complete!</td>
+					<td>{% else %}<font color="red">{{ gelist.23.1 }}</font> / 9.0</td>
+					<td><font color="red">Incomplete...</font></td>
+					{% endif %}
+				</tr>
+				<tr>
+					<td>GENERAL EDUCATION UPPER DIVISION UNITS</td>
+					<td>{% if gelist.24.0 == 'Y' %}<font color="blue">{{ gelist.24.1 }}</font> / 9.0</td>
+					<td><font color="blue">Complete!</td>
+					<td>{% else %}<font color="red">{{ gelist.24.1 }}</font> / 9.0</td>
+					<td><font color="red">Incomplete...</font></td>
+					{% endif %}
+				<tr>
+					<td>GENERAL EDUCATION UNITS</td>
+					<td>{% if gelist.25.0 == 'Y' %}<font color="blue">{{ gelist.25.1 }}</font> / 45.0</td>
+					<td><font color="blue">Complete!</td>
+					<td>{% else %}<font color="red">{{ gelist.25.1 }}</font> / 45.0</td>
+					<td><font color="red">Incomplete...</font></td>
+					{% endif %}
+				</tr>
+				<tr>
+					<td>G.P.A. OF ALL COURSES</td> 
+					<td>{% if unitlist.0.0 == 'Y' %}{{ unitlist.0.1 }} Units / <font color="blue">{{ unitlist.0.2 }} GPA</font></td>
+					<td><font color="blue">OK!</td>
+					<td>{% else %}{{ unitlist.0.1 }} Units / <font color="red">{{ unitlist.0.2 }} GPA</font></td>
+					<td><font color="red">No good...</font></td>
+					{% endif %}
+				</tr>
+				<tr>
+					<td>UNIT REQUIREMENTS</td><td> 
+					<td>{% if unitlist.1 == 'Y' %}<font color="blue">OK!<td>
+					<td>{% else %}<font color="red">No good...</font></td>
+					{% endif %}
+				</tr>
+				<tr>
+					<td>>- UNITS EARNED AT CSUF</td> 
+					<td>{% if unitlist.2.0 == 'Y' %}<font color="blue">{{ unitlist.2.1 }}</font> / 30.0 </td>
+					<td><font color="blue">Complete!</td>
+					<td>{% else %}<font color="red">{{ unitlist.2.1 }}</font> / 30.0</td>
+					<td><font color="red">Incomplete...</font></td>
+					{% endif %}
+				</tr>
+				<tr>
+					<td>>- CSUF GRADE POINT AVERAGE</td>
+					<td>{% if unitlist.3.0 == 'Y' %}<font color="blue">{{ unitlist.3.2 }}</font> > 2.00 Minimum</td>
+					<td><font color="blue">OK!</td>
+					<td>{% else %}<font color="red">{{ unitlist.3.2 }}</font> > 2.00 Minimum</td>
+					<td><font color="red">No good...</font></td>
+					{% endif %}
+				</tr>
+				<tr>
+					<td>>- UPPER DIVISION UNITS EARNED</td> 
+					<td>{% if unitlist.4.0 == 'Y' %}<font color="blue">{{ unitlist.4.1 }}</font> / 40.0 Units</td>
+					<td><font color="blue">Complete!</td>
+					<td>{% else %}<font color="red">{{ unitlist.4.1 }}</font> / 40.0 Units</td>
+					<td><font color="red">Incomplete...</font></td>
+					{% endif %}
+				</tr>
+				<tr>
+					<td>>- RESIDENCE UPPER DIVISION UNITS</td> 
+					<td>{% if unitlist.5.0 == 'Y' %}<font color="blue">{{ unitlist.5.1 }}</font> / 24.0 Units</td>
+					<td><font color="blue">Complete!</td>
+					<td>{% else %}<font color="red">{{ unitlist.5.1 }}</font> / 24.0 Units</td>
+					<td><font color="red">Incomplete...</font></td>
+					{% endif %}
+				</tr>
+				<tr>
+					<td>>- MAJOR Residence UPPER DIVISION UNITS</td>
+					<td>{% if unitlist.6.0 == 'Y' %}<font color="blue">{{ unitlist.6.1 }}</font> / 12.0 Units</td>
+					<td><font color="blue">Complete!</font> ( GPA : {{ unitlist.6.2 }}</td>
+					<td>{% else %}<font color="red">{{ unitlist.6.1 }}</font> / 12.0 Units</td>
+					<td><font color="red">Incomplete...</font> ( GPA : {{ unitlist.6.2 }} )</td>
+					{% endif %}
+				</tr>
+				<tr>
+					<td>TRANSFER INSTITUTION TOTALS</td>
+					<td>{{ unitlist.7.1 }} Units</td> 
+					<td>{% if unitlist.7.0 == 'Y' %}<font color="blue">OK!</td>
+					<td>{% else %}<font color="red">No good...{% endif %}</font></td>
+				</tr>
+				<tr>
+					<td>CUMULATIVE NUMBER OF UNITS</td>
+					<td>{% if unitlist.8.0 == 'Y' %}<font color="blue">{{ unitlist.8.1 }}</font> / 124.0 Units</td>
+					<td><font color="blue">Complete!</td>
+					<td>{% else %}<font color="red">{{ unitlist.8.1 }}</font> / 124.0 Units</td>
+					<td><font color="red">Incomplete...</td>
+					{% endif %}
+				</tr>
+				<tr>
+					<td>CUMULATIVE GRADE POINT AVERAGE</td>
+					<td>{% if unitlist.9.0 == 'Y' %}<font color="blue">{{ unitlist.9.2 }}</font> > 2.00 Minimum</td>
+					<td><font color="blue">OK!</td>
+					<td>{% else %}<font color="red">{{ unitlist.9.2 }}</font> > 2.00 Minimum</td>
+					<td><font color="red">No good...</font></td>
+					{% endif %}
+				</tr>
+			</table>
+		</b></td>
+		</tr></table></div>
+	</body>
+</html>
