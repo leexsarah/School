@@ -1,0 +1,16 @@
+Keyword         while          
+Separator       (              
+Identifier      fahr           
+Operator        <              
+Identifier      upper          
+Separator       )              
+Identifier      a              
+Operator        :=             
+Real            23.00          
+Unknown         97a89f7asd.fjaf9ad7faf
+Unknown         a.df.          
+Identifier      asjdfa0sd7f    
+Identifier      asdfl          
+Separator       ;              
+Identifier      m              
+Separator       ,              
